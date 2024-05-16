@@ -1,7 +1,6 @@
 # Fibonacci Numbers
 #### Fibonacci 
-
-
+#### Fibonacci raqam avalani bor dar Hinduston soxta wuda bud 200 sol PC (pew az millod) lekin yak waxsi Itoliyoi Leonardo Pisano Fibonacci (1170–1240 yo 1250 murd) wai Fibonacciro ba jaxon introduce kard wa inro Arabic number paydarpayi menomidand (poryadok) Fibonacci-ro xamchun dar nature dar priroda istifoda mebarand (meguyand ki tabiat az Fibonacci vobasta ast) baroi chi nomwa Fibonacci monday? baroi on ki bo zaboni Itoliyoi “filius Bonacci” mewavad dar Itoliyoi in nom manoi pisari Bonachi menomand yo agar kak prozvishe `udacha`  meguyand
 
 >[!TIP]
 >Fibonacci numbers — это последовательность целых чисел, которая `начинается с 0 и 1`. Каждое следующее число в последовательности является `суммой двух предыдущих чисел`.Вот некоторые примеры чисел в последовательности: `0, 1, 1, 2, 3, 5, 8, 13, 21, 34` и так далее.Fibonacci numbers были впервые обнаружены итальянским математиком Леонардо Фибоначчи в 13 веке.
